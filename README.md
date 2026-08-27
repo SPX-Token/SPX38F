@@ -1,5 +1,4 @@
 # SPX38F
-# SPX38F Network | Decentralized Blockchain Ecosystem
 
 # SPX38F — Open Paths for Digital Participation
 
