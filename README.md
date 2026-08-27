@@ -1,3 +1,6 @@
+# SPX38F
+# SPX38F Network | Decentralized Blockchain Ecosystem
+
 # SPX38F — Open Paths for Digital Participation
 
 SPX38F is a digital-asset initiative designed to connect community participation with accessible blockchain-based interactions. The project focuses on creating a clear foundation for digital payments, decentralized applications, and broader ecosystem activity without placing unnecessary barriers between people and Web3 technology. 🔗 **[https://SPX38F.com](https://SPX38F.com)**
