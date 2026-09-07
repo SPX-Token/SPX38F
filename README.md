@@ -1,3 +1,5 @@
+# SPX38F
+
 # SPX38F — Shared Ideas, Everyday Digital Possibilities
 
 SPX38F aims to connect community participation with a more approachable digital asset ecosystem. Its intended direction brings together decentralized applications, digital payments, and simpler online interactions, with an emphasis on helping people understand how these experiences could fit into everyday life.
@@ -46,10 +48,6 @@ Constructive involvement also means distinguishing personal suggestions from con
 SPX38F is a token project focused on exploring a participatory digital asset ecosystem. It aims to bring practical digital interaction, decentralized application ideas, and community learning into a shared development direction. This README introduces that direction without asserting a deployed network, validator program, staking rewards, or other unverified functionality.
 
 🔗 **[https://SPX38F.com](https://SPX38F.com)**
-
-## Participate with Perspective
-
-Digital assets involve financial and technical risks. Project plans may change, and proposed features may not be delivered. This README is informational and does not provide investment advice or promise returns. Review available information independently before making financial decisions.
 
 **Shared curiosity. Practical possibilities. Progress with purpose.**
 
